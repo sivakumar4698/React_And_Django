@@ -14,6 +14,10 @@
 - Mark orders as delivered option
 - Checkout process (shipping, payment method, etc)
 - PayPal / credit card integration
+- Checkout Process
+- Admin features (Removing users, adding products, updating them etc...)
+- Product review, search feature and more.
+- Deploying and implementing the postgres Database replacing the Django data model.
 
 
 #### Features used to build the application
@@ -30,10 +34,4 @@
 - Integrating the PayPal API
 - Project deployment
 
-#### Features to be implemented for completing
-
-- Checkout Process
-- Admin features (Removing users, adding products, updating them etc...)
-- Product review, search feature and more.
-- Deploying and implementing the postgres Database replacing the Django data model.
 
